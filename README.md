@@ -17,7 +17,7 @@
   - [Про LaTex из Википедии](https://en.wikipedia.org/wiki/LaTeX), есть хорошие курсы на Курсере
 
 - Семинар 2: Pandas
-  - [Кодспект (решали на семинаре)](https://github.com/V-Marco/bmb207_intro_to_ds/blob/main/seminar02/sem02_pandas.ipynb)
+  - [Кодспект (решали на семинаре)](https://github.com/V-Marco/bmb207_intro_to_ds/blob/main/seminar02/solved_sem02_pandas.ipynb)
   - [Видео]
   - [Кодспект (тетрадка с правильным датасетом)](https://github.com/V-Marco/bmb207_intro_to_ds/blob/main/seminar02/solved_sem02_pandas_correct.ipynb)
   - [Разница между функциями `map`, `apply`, `applymap`](https://stackoverflow.com/questions/19798153/difference-between-map-applymap-and-apply-methods-in-pandas)
