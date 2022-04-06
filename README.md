@@ -24,4 +24,4 @@
   - [Разница между функциями `map`, `apply`, `applymap`](https://stackoverflow.com/questions/19798153/difference-between-map-applymap-and-apply-methods-in-pandas)
   - [Примеры индексации в Pandas](https://github.com/V-Marco/hse_iad5_2021/blob/main/misc/pandas_indexing_examples.ipynb)
   - [Здоровское пояснение про bitwise operators в Pandas](https://towardsdatascience.com/bitwise-operators-and-chaining-comparisons-in-pandas-d3a559487525)
-  - Попрактиковаться в Pandas: [задание](https://github.com/hse-ds/iad-intro-ds/blob/master/2021/seminars/sem01_pandas.ipynb), [решение](https://github.com/V-Marco/hse_iad4_2022/blob/main/seminar_2/solved_sem02_1_pandas.ipynb)
+  - Попрактиковаться в Pandas: [задание](https://github.com/V-Marco/bmb207_intro_to_ds/blob/main/seminar02/add_pandas.ipynb), [решение](https://github.com/V-Marco/hse_iad4_2022/blob/main/seminar_2/solved_sem02_1_pandas.ipynb)
