@@ -26,10 +26,12 @@
     - [Разница между функциями `map`, `apply`, `applymap`](https://stackoverflow.com/questions/19798153/difference-between-map-applymap-and-apply-methods-in-pandas)
     - [Примеры индексации в Pandas](https://github.com/V-Marco/hse_iad5_2021/blob/main/misc/pandas_indexing_examples.ipynb)
 
-- Семинар 3: `numpy`, `matplotlib`
-  - [Кодспект]
+- Семинар 3: Визуализация
+  - [Кодспект (основы `numpy`)](https://github.com/V-Marco/bmb207_intro_to_ds/blob/main/week3_data-viz/numpy_basics.ipynb)
+  - [Кодспект (визуализация в `matplotlib`)](https://github.com/V-Marco/bmb207_intro_to_ds/blob/main/week3_data-viz/sem_visual_ex.ipynb)
+  - [Кодспект (`seaborn`))](https://github.com/V-Marco/bmb207_intro_to_ds/blob/main/week3_data-viz/seaborn_manual.ipynb)
   - [Видео](https://youtu.be/SI-KL9bN-lA)
 
 - Семинар 4: EDA
-  - [Кодспект]
+  - [Кодспект](https://github.com/V-Marco/bmb207_intro_to_ds/blob/main/week4_eda/sem04_eda.ipynb)
   - [Видео](https://youtu.be/SI-KL9bN-lA)
