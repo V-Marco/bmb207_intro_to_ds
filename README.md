@@ -8,7 +8,7 @@
   - [Google Colab](https://colab.research.google.com/)
 
 - Консультации
-  - По Git и GitHub: [задание](https://github.com/V-Marco/hse_iad4_2022/blob/main/misc/git_cons.pdf)
+  - По Git и GitHub: [задание](https://github.com/V-Marco/hse_iad4_2022/blob/main/misc/git_cons.pdf), [видео](https://youtu.be/zgnl34TYiX4)
 
 - Семинар 1: Повторение Python
   - [Кодспект](https://github.com/V-Marco/bmb207_intro_to_ds/blob/main/seminar01/solved_sem01_intro.ipynb)
