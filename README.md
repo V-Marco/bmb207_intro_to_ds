@@ -35,3 +35,12 @@
 - Семинар 4: EDA
   - [Кодспект](https://github.com/V-Marco/bmb207_intro_to_ds/blob/main/week4_eda/sem04_eda.ipynb)
   - [Видео](https://youtu.be/SI-KL9bN-lA)
+
+- Семинар 5: Тестирование гипотез
+  - [Кодспект](https://github.com/V-Marco/bmb207_intro_to_ds/blob/main/week5_hypothesis/sem_5.ipynb)
+  - [Видео](https://youtu.be/otozeMXwbYo)
+
+- Семинар 6: p-value
+  - [Кодспект](https://github.com/V-Marco/bmb207_intro_to_ds/blob/main/week6_hypothesis_2/sem_6.ipynb)
+  - [Видео-1](https://youtu.be/otozeMXwbYo)
+  - [Видео-2](https://youtu.be/VFciXfrFtiY)
