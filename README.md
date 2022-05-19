@@ -44,3 +44,11 @@
   - [Кодспект](https://github.com/V-Marco/bmb207_intro_to_ds/blob/main/week6_hypothesis_2/sem_6.ipynb)
   - [Видео-1](https://youtu.be/otozeMXwbYo)
   - [Видео-2](https://youtu.be/VFciXfrFtiY)
+
+- Семинар 7: Непараметрика
+  - [Кодспект](https://github.com/V-Marco/bmb207_intro_to_ds/blob/main/week7_nonparametric/Sem7.ipynb)
+  - [Видео]
+
+- Семинар 8: Тестирование гипотез на наборе данных
+  - [Кодспект](https://github.com/V-Marco/bmb207_intro_to_ds/blob/main/week8_eda_hyp/Sem8_IntroDS.ipynb)
+  - [Видео]
