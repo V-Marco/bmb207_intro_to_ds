@@ -46,7 +46,7 @@
   - [Видео-2](https://youtu.be/VFciXfrFtiY)
 
 - Семинар 7: Непараметрика
-  - [Кодспект](https://github.com/V-Marco/bmb207_intro_to_ds/blob/main/week7_nonparametric/Sem7.ipynb)
+  - [Кодспект](https://github.com/V-Marco/bmb207_intro_to_ds/blob/main/week7_nonparametric/Sem7.ipynb) (**NB:** в формуле теста Манна-Уитни ошибка, верную формулу смтрите [здесь](https://github.com/V-Marco/public_intro_to_DS_mba_hse/blob/main/seminars/week7_nonparametric/Sem7.ipynb))
   - [Видео](https://youtu.be/n8blfi-uwkc)
 
 - Семинар 8: Тестирование гипотез на наборе данных
