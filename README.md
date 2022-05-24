@@ -52,3 +52,7 @@
 - Семинар 8: Тестирование гипотез на наборе данных
   - [Кодспект](https://github.com/V-Marco/bmb207_intro_to_ds/blob/main/week8_eda_hyp/Sem8_IntroDS.ipynb)
   - [Видео](https://youtu.be/n8blfi-uwkc)
+
+- Семинар 10: Линейная регрессия
+  - [Кодспект](https://github.com/V-Marco/bmb207_intro_to_ds/blob/main/week10_linreg/sem10_linearRegression.ipynb)
+  - [Видео]
