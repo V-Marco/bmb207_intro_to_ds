@@ -62,5 +62,5 @@
   - [Видео](https://youtu.be/nMhcQwa5Has)
 
 - Семинар 12: kNN. Метрики качества в задаче классификации
-  - [Кодспект]()
+  - [Кодспект](https://github.com/V-Marco/bmb207_intro_to_ds/blob/main/week12_knn/sem12_classification.ipynb)
   - [Видео](https://youtu.be/gGiMniqYOkc)
