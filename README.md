@@ -56,3 +56,11 @@
 - Семинар 10: Линейная регрессия
   - [Кодспект](https://github.com/V-Marco/bmb207_intro_to_ds/blob/main/week10_linreg/sem10_linearRegression.ipynb)
   - [Видео](https://youtu.be/ZPwXeH4wP6s)
+
+- Семинар 11: Линейная регрессия с точки зрения машинного обучения
+  - [Кодспект]()
+  - [Видео](https://youtu.be/nMhcQwa5Has)
+
+- Семинар 12: kNN. Метрики качества в задаче классификации
+  - [Кодспект]()
+  - [Видео](https://youtu.be/gGiMniqYOkc)
