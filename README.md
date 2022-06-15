@@ -66,7 +66,7 @@
   - [Видео](https://youtu.be/gGiMniqYOkc)
 
 - Семинар 13: Логистическая регрессия
-  - [Кодспект]
+  - [Кодспект](https://github.com/V-Marco/bmb207_intro_to_ds/blob/main/week13_logit/week13_logit.ipynb)
   - [Видео](https://youtu.be/UqleskiHYwk)
 
 - Семинар 14: Разбор демо-варианта
