@@ -64,3 +64,11 @@
 - Семинар 12: kNN. Метрики качества в задаче классификации
   - [Кодспект](https://github.com/V-Marco/bmb207_intro_to_ds/blob/main/week12_knn/sem12_classification.ipynb)
   - [Видео](https://youtu.be/gGiMniqYOkc)
+
+- Семинар 13: Логистическая регрессия
+  - [Кодспект]
+  - [Видео](https://youtu.be/UqleskiHYwk)
+
+- Семинар 14: Разбор демо-варианта
+  - [Кодспект]
+  - [Видео](https://youtu.be/UqleskiHYwk)
