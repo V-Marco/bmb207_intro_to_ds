@@ -70,5 +70,5 @@
   - [Видео](https://youtu.be/UqleskiHYwk)
 
 - Семинар 14: Разбор демо-варианта
-  - [Кодспект]
+  - [Кодспект](https://github.com/V-Marco/bmb207_intro_to_ds/blob/main/week14_demo/demo.ipynb)
   - [Видео](https://youtu.be/UqleskiHYwk)
